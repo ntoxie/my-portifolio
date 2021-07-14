@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf8"/>
+<title>portifolio</title>
+<link rel="stylesheet" href="style.css">
+<style>
+
+.nav {
+    text-align:center;
+}
+
+</style>
+</head>
+
+<body>
+ <div class="nav">
+    <nav>
+    
+<a href="index.html">HOME</a>
+<a href="about.html">ABOUT</a>
+<a href="contact.html">CONTACT</a>
+<a href="Certificate.html">CERTIFICATE</a><br>
+<br><br>
+<h1><marquee> WELCOME TO MY PORTIFOLIO</marquee></h1>
+</script>
+<h2>EAT</h2>
+<br>
+<h2>SLEEP</h2>
+<br>
+<h2> THEN CODE</h2>
+
+
+<button onclick="typeWriter()">READ MORE</button>
+
+<p id="demo"></p>
+
+<script>
+var i = 0;
+var txt = 'MY DREAM IS TO BECOME A GAME DEVELOPER AND OWN MY OWN GAME SHOP I BELIEVE I HAVE OASSION FOE GAME.';
+var speed = 30;
+
+function typeWriter() {
+  if (i < txt.length) {
+    document.getElementById("demo").innerHTML += txt.charAt(i);
+    i++;
+    setTimeout(typeWriter, speed);
+  }
+}
+</script>
+
+
+
+</body>
+</html>
+
+
+

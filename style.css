@@ -1,0 +1,67 @@
+                                                                                                                                                                                    h1 {
+                                                                                                                                                                                        margin-top: 0%;
+                                                                                                                                                                                        padding-top: 0%;
+                                                                                                                                                                                    }
+                                                                                                                                                                                    
+                                                                                                                                                                                    html {
+                                                                                                                                                                                        background-image: url("img3.jpg");
+                                                                                                                                                                                        background-image: cover;
+                                                                                                                                                                                        background-image: repeat;
+                                                                                                                                                                                    }
+                                                                                                                                                                                    
+                                                                                                                                                                                    .nav {
+                                                                                                                                                                                        text-align: center;
+                                                                                                                                                                                        font-weight: bolder;
+                                                                                                                                                                                        text-decoration: none;
+                                                                                                                                                                                    }
+                                                                                                                                                                                    
+                                                                                                                                                                                    .nav a:hover {
+                                                                                                                                                                                        background-color: rgb(255, 127, 127);
+                                                                                                                                                                                        font-weight: bold;
+                                                                                                                                                                                    }
+                                                                                                                                                                                    
+                                                                                                                                                                                    .nav img {
+                                                                                                                                                                                        border-radius: 20%;
+                                                                                                                                                                                    }
+                                                                                                                                                                                    
+                                                                                                                                                                                    .class1 {
+                                                                                                                                                                                        margin-bottom: 60%;
+                                                                                                                                                                                        padding-bottom: 40;
+                                                                                                                                                                                    }
+                                                                                                                                                                                    
+                                                                                                                                                                                    .login-box {
+                                                                                                                                                                                        width: 500px;
+                                                                                                                                                                                        background: rgb(255, 127, 127);
+                                                                                                                                                                                        color: black;
+                                                                                                                                                                                        margin: 11px auto;
+                                                                                                                                                                                        border-radius: 6px;
+                                                                                                                                                                                        padding: 10px;
+                                                                                                                                                                                        height: 400px;
+                                                                                                                                                                                        margin-top: 10px;
+                                                                                                                                                                                    }
+                                                                                                                                                                                    
+                                                                                                                                                                                    h1 {
+                                                                                                                                                                                        text-align: center;
+                                                                                                                                                                                    }
+                                                                                                                                                                                    
+                                                                                                                                                                                    input {
+                                                                                                                                                                                        width: 90%;
+                                                                                                                                                                                        display: block;
+                                                                                                                                                                                        border: 1px skyblue;
+                                                                                                                                                                                        padding: 10px;
+                                                                                                                                                                                        font-size: 10px;
+                                                                                                                                                                                        outline: none;
+                                                                                                                                                                                        margin-bottom: 20px;
+                                                                                                                                                                                        border-radius: 5px;
+                                                                                                                                                                                    }
+                                                                                                                                                                                    
+                                                                                                                                                                                    button {
+                                                                                                                                                                                        width: 80%;
+                                                                                                                                                                                        border: none;
+                                                                                                                                                                                        outline: none;
+                                                                                                                                                                                        height: 40px;
+                                                                                                                                                                                        border-radius: 5px;
+                                                                                                                                                                                        background: aqua;
+                                                                                                                                                                                        color: #fff;
+                                                                                                                                                                                        font-size: 17px;
+                                                                                                                                                                                    }
